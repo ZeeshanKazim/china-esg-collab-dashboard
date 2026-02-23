@@ -1,0 +1,74 @@
+report_id,file_name,company_name_clean,industry_sector,ownership_type,year_of_report,reporting_standard_mentions
+CN001,Alibaba 2024.pdf,Alibaba,Technology & Internet,not stated,2024,not stated
+CN002,ANT Group 2024.pdf,ANT Group,Technology & Internet,state-owned,2024,not stated
+CN003,ANTA Sports Products Ltd 2024.pdf,ANTA Sports Products Ltd,Transportation & Logistics,not stated,2024,not stated
+CN004,AUO 2024.pdf,AUO,Manufacturing & Electronics,not stated,2024,SDGs
+CN005,Baidu 2024.pdf,Baidu,Technology & Internet,not stated,2024,GRI; SASB; ISSB; UNGC; SDGs
+CN006,Bank of China 2024.pdf,Bank of China,Financial Services,state-owned,2024,GRI
+CN007,BYD 2024.pdf,BYD,Renewables & Clean Tech,not stated,2024,GRI; SDGs
+CN008,CATL 2024.pdf,CATL,Renewables & Clean Tech,not stated,2024,GRI; SDGs
+CN009,CCB 2024.pdf,CCB,Financial Services,state-owned,2024,not stated
+CN010,Chery Auto 2024.pdf,Chery Auto,Automotive,not stated,2024,GRI; SDGs
+CN011,China Development Bank Financial Leasing.pdf,China Development Bank Financial Leasing,Financial Services,state-owned,2024,TCFD
+CN012,China Merchant Bank 2024.pdf,"China Merchants Bank Co., Ltd.",Financial Services,not stated,2024,GRI
+CN013,China Merchants Port Holdings Company.pdf,China Merchants Port Holdings Company,Financial Services,not stated,not stated,GRI
+CN014,China Shenhua Energy 2024.pdf,China Shenhua Energy,Energy & Utilities,state-owned,2024,GRI
+CN015,China State Construction 2024.pdf,China State Construction,Construction & Infrastructure,state-owned,2024,not stated
+CN016,China Three Gorges 2024.pdf,China Three Gorges,Energy & Utilities,not stated,2024,not stated
+CN017,CHINT Group 2024.pdf,CHINT Group,Renewables & Clean Tech,not stated,2024,GRI; ISSB; SDGs
+CN018,CITIC 2024.pdf,CITIC,Conglomerate,state-owned,2024,GRI
+CN019,CMOC 2024.pdf,CMOC,Mining & Metals,not stated,2024,not stated
+CN020,CNGR 2024.pdf,CNGR,Renewables & Clean Tech,not stated,2024,not stated
+CN021,COSCO Shipping 2024.pdf,COSCO Shipping,Transportation & Logistics,state-owned,2024,GRI
+CN022,CRRC 2024.pdf,CRRC,Other / Not classified,state-owned,2024,GRI; ISSB; SDGs
+CN023,CYPC 2023.pdf,Stock code: 600900.SH,Other / Not classified,not stated,2023,GRI; SDGs
+CN024,ENN Natural Gas Co 2024.pdf,ENN Natural Gas Co,Energy & Utilities,not stated,2024,GRI; UNGC
+CN025,Esquel 2024.pdf,1 ESQUEL,Consumer Goods,not stated,2024,GRI
+CN026,Fosun 2024.pdf,Fosun,Transportation & Logistics,not stated,2024,GRI
+CN027,Foxconn Industrial Internet 2024.pdf,Foxconn Industrial Internet,Manufacturing & Electronics,not stated,2024,GRI; SASB; TCFD; SDGs
+CN028,GCL 2024.pdf,GCL,Energy & Utilities,not stated,2024,GRI
+CN029,GDS 2024.pdf,GDS,Technology & Internet,not stated,2024,not stated
+CN030,GEM Co..pdf,GEM Co.,Renewables & Clean Tech,state-owned,2024,GRI; ISSB; UNGC; SDGs
+CN031,Glodon 2024.pdf,Glodon,Technology & Internet,not stated,2024,GRI; SDGs
+CN032,Gree 2024.pdf,Gree,Manufacturing & Electronics,not stated,2024,GRI; SDGs
+CN033,Guangdong Investment Limited 2024.pdf,Guangdong Investment Limited,Energy & Utilities,state-owned,2024,SDGs
+CN034,Haier 2024.pdf,"Jan 1 – Dec 31, 2024",Manufacturing & Electronics,not stated,2024,not stated
+CN035,Hang Seng Bank 2024.pdf,Hang Seng Bank,Financial Services,not stated,2024,GRI; SDGs
+CN036,Hengtong Optic Electric 2024.pdf,Hengtong Optic Electric,Other / Not classified,not stated,2024,GRI
+CN037,Hengyi 2024.pdf,Hengyi,Other / Not classified,private,2024,GRI
+CN038,Hisense  2024.pdf,Hisense,Manufacturing & Electronics,not stated,2023,GRI; SASB; ISSB; SDGs
+CN039,Honor 2024.pdf,Honor,Technology & Internet,not stated,2024,not stated
+CN040,ICBC 2024.pdf,ICBC,Financial Services,state-owned,2024,GRI
+CN041,iFlyTEK 2024.pdf,iFlyTEK,Technology & Internet,state-owned,2024,not stated
+CN042,Inovance 2024.pdf,Inovance,Construction & Infrastructure,not stated,2024,not stated
+CN043,JA Solar 2024.pdf,JA SOLAR SUSTAINABILITY AND,Renewables & Clean Tech,state-owned,2024,GRI; ISSB; UNGC; SDGs
+CN044,Jinko Solar 2024.pdf,Jinko Solar,Renewables & Clean Tech,not stated,2024,GRI; ISSB; UNGC; SDGs
+CN045,Kweichow Moutai Co 2024.pdf,Kweichow Moutai Co,Consumer Goods,state-owned,2024,GRI; SDGs
+CN046,Lenovo 2024.pdf,Lenovo,Other / Not classified,not stated,2023,GRI; SDGs
+CN047,LINGYI iTECH (GUANGDONG) COMPANY 2024.pdf,LINGYI iTECH (GUANGDONG) COMPANY,Other / Not classified,not stated,2024,not stated
+CN048,LONGI 2024.pdf,LONGI,Renewables & Clean Tech,not stated,2024,GRI; ISSB; SDGs
+CN049,LUXSHAREICT 2024.pdf,LUXSHAREICT,Telecom & ICT,not stated,2024,GRI
+CN050,Meituan 2024.pdf,Meituan,Technology & Internet,state-owned,2024,not stated
+CN051,Mengniu Dairy 2024.pdf,Mengniu Dairy,Consumer Goods,not stated,2024,GRI
+CN052,Midea 2024.pdf,Midea,Manufacturing & Electronics,not stated,2024,not stated
+CN053,Nanjing Steel 2024.pdf,Nanjing Steel,Telecom & ICT,state-owned,2024,GRI; SDGs
+CN054,PICC 2024.pdf,PICC,Financial Services,state-owned,2024,GRI; SDGs
+CN055,PING AN 2024.pdf,PING AN,Financial Services,not stated,2024,GRI; SASB
+CN056,Power Construction Corporation of China 2024.pdf,Power Construction Corporation of China,Construction & Infrastructure,state-owned,2030,GRI; UNGC
+CN057,Sany 2024.pdf,Sany,Construction & Infrastructure,not stated,2024,GRI
+CN058,SF Holding.pdf,SF Holding,Financial Services,state-owned,2024,GRI; SDGs
+CN059,Shenzhen International Holding Limited.pdf,Shenzhen International Holding Limited,Financial Services,state-owned,2024,SDGs
+CN060,Sungrow 2024.pdf,Sungrow,Renewables & Clean Tech,not stated,2024,GRI; UNGC
+CN061,Sunny Optical Technology 2024.pdf,Sunny Optical Technology,Manufacturing & Electronics,not stated,2024,GRI
+CN062,Sunwoda 2024.pdf,Sunwoda,Renewables & Clean Tech,not stated,2024,GRI; ISSB; UNGC; SDGs
+CN063,Taishin Holding 2024.pdf,Taishin Holding,Financial Services,not stated,2024,GRI; SASB; TCFD
+CN064,TCL Technology Group 2024.pdf,TCL Technology Group,Manufacturing & Electronics,not stated,2024,GRI; SASB; TCFD; UNGC; SDGs
+CN065,Tencent 2024.pdf,Tencent,Technology & Internet,not stated,2024,GRI; SDGs
+CN066,TPV 2024.pdf,TPV,Manufacturing & Electronics,state-owned,2024,UNGC
+CN067,Vanke 2024.pdf,Vanke,Other / Not classified,state-owned,2024,GRI; SASB; TCFD; ISSB
+CN068,WuXi AppTec.pdf,WuXi AppTec,Healthcare & Pharma,not stated,2024,GRI; SASB; UNGC; SDGs
+CN069,XCMG 2024.pdf,XCMG,Construction & Infrastructure,state-owned,2024,GRI
+CN070,Xiaomi 2024.pdf,Xiaomi,Technology & Internet,not stated,2024,GRI; SASB; TCFD; ISSB; SDGs
+CN071,Zhejiang Huayou Cobalt 2024.pdf,"Zhejiang Huayou Cobalt Co., Ltd.",Renewables & Clean Tech,not stated,2024,GRI; SDGs
+CN072,Zijin 2024.pdf,Zijin,Mining & Metals,not stated,2024,SDGs
+CN073,ZTE 2024.pdf,ZTE Corporation,Technology & Internet,not stated,2024,GRI
